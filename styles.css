@@ -32,3 +32,9 @@ body {
 #thumb {
     text-align: center;
   }
+
+  .prox {
+    margin: 20px;
+    text-align:right;
+    
+  }
