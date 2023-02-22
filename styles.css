@@ -1,0 +1,34 @@
+body {
+    background-color:gray;
+}
+
+.box {
+    background-color: rgb(104, 102, 102);
+    width: 350px;
+    margin: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(3, 3, 3, 0.438);   
+}
+
+.box p {
+    color: rgb(7, 7, 7);
+}
+
+#lore {
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+#bud {
+     font-family: fantasy;
+    
+
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.479);
+}
+
+#thumb {
+    text-align: center;
+  }
